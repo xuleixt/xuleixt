@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xuleixt
+- 👀 I’m interested in Open source software、Amateur radio.
+- 🌱 I’m currently learning Python.
